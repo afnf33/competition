@@ -14,5 +14,5 @@
 - batch_size: 8
 
 ## 결과 (단순 accuracy)
-- Public LB: 92.857 	
-- Private LB: 92.0
+- Public LB: 92.857 (75/256)
+- Private LB: 92.0 (79/256)
